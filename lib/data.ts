@@ -54,6 +54,6 @@ export function readHeatmapCumulative(camera: string, date: string): HeatmapCumu
 const DAY_OF_WEEK_JA = ['日', '月', '火', '水', '木', '金', '土'];
 
 export function getDayOfWeek(dateStr: string): string {
-  const d = new Date(dateStr + 'T00:00:00+09:00');
+  const d = new Date(dateStr + 'T00:00:00Z');
   return DAY_OF_WEEK_JA[d.getUTCDay()];
 }
