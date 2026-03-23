@@ -1,0 +1,210 @@
+{
+  "date": "2026-03-17",
+  "timezone": "+09:00",
+  "lines": {
+    "line1": {
+      "coords": {
+        "sx": 183,
+        "sy": 189,
+        "ex": 136,
+        "ey": 189
+      },
+      "hourly": [
+        {
+          "utcHour": 0,
+          "jstHour": 9,
+          "countIn": 174,
+          "countOut": 214
+        },
+        {
+          "utcHour": 1,
+          "jstHour": 10,
+          "countIn": 190,
+          "countOut": 219
+        },
+        {
+          "utcHour": 2,
+          "jstHour": 11,
+          "countIn": 199,
+          "countOut": 248
+        },
+        {
+          "utcHour": 3,
+          "jstHour": 12,
+          "countIn": 168,
+          "countOut": 223
+        },
+        {
+          "utcHour": 4,
+          "jstHour": 13,
+          "countIn": 213,
+          "countOut": 237
+        },
+        {
+          "utcHour": 5,
+          "jstHour": 14,
+          "countIn": 162,
+          "countOut": 210
+        },
+        {
+          "utcHour": 6,
+          "jstHour": 15,
+          "countIn": 227,
+          "countOut": 253
+        },
+        {
+          "utcHour": 7,
+          "jstHour": 16,
+          "countIn": 240,
+          "countOut": 283
+        },
+        {
+          "utcHour": 8,
+          "jstHour": 17,
+          "countIn": 288,
+          "countOut": 254
+        },
+        {
+          "utcHour": 9,
+          "jstHour": 18,
+          "countIn": 228,
+          "countOut": 254
+        },
+        {
+          "utcHour": 10,
+          "jstHour": 19,
+          "countIn": 151,
+          "countOut": 204
+        },
+        {
+          "utcHour": 11,
+          "jstHour": 20,
+          "countIn": 76,
+          "countOut": 137
+        },
+        {
+          "utcHour": 12,
+          "jstHour": 21,
+          "countIn": 100,
+          "countOut": 133
+        },
+        {
+          "utcHour": 13,
+          "jstHour": 22,
+          "countIn": 1,
+          "countOut": 1
+        },
+        {
+          "utcHour": 14,
+          "jstHour": 23,
+          "countIn": 0,
+          "countOut": 0
+        }
+      ],
+      "totalIn": 2417,
+      "totalOut": 2870
+    },
+    "line3": {
+      "coords": {
+        "sx": 88,
+        "sy": 134,
+        "ex": 98,
+        "ey": 98
+      },
+      "hourly": [
+        {
+          "utcHour": 0,
+          "jstHour": 9,
+          "countIn": 83,
+          "countOut": 85
+        },
+        {
+          "utcHour": 1,
+          "jstHour": 10,
+          "countIn": 108,
+          "countOut": 115
+        },
+        {
+          "utcHour": 2,
+          "jstHour": 11,
+          "countIn": 118,
+          "countOut": 107
+        },
+        {
+          "utcHour": 3,
+          "jstHour": 12,
+          "countIn": 135,
+          "countOut": 142
+        },
+        {
+          "utcHour": 4,
+          "jstHour": 13,
+          "countIn": 166,
+          "countOut": 162
+        },
+        {
+          "utcHour": 5,
+          "jstHour": 14,
+          "countIn": 136,
+          "countOut": 137
+        },
+        {
+          "utcHour": 6,
+          "jstHour": 15,
+          "countIn": 152,
+          "countOut": 160
+        },
+        {
+          "utcHour": 7,
+          "jstHour": 16,
+          "countIn": 116,
+          "countOut": 124
+        },
+        {
+          "utcHour": 8,
+          "jstHour": 17,
+          "countIn": 130,
+          "countOut": 129
+        },
+        {
+          "utcHour": 9,
+          "jstHour": 18,
+          "countIn": 119,
+          "countOut": 115
+        },
+        {
+          "utcHour": 10,
+          "jstHour": 19,
+          "countIn": 73,
+          "countOut": 73
+        },
+        {
+          "utcHour": 11,
+          "jstHour": 20,
+          "countIn": 62,
+          "countOut": 63
+        },
+        {
+          "utcHour": 12,
+          "jstHour": 21,
+          "countIn": 60,
+          "countOut": 62
+        },
+        {
+          "utcHour": 13,
+          "jstHour": 22,
+          "countIn": 3,
+          "countOut": 3
+        },
+        {
+          "utcHour": 14,
+          "jstHour": 23,
+          "countIn": 1,
+          "countOut": 1
+        }
+      ],
+      "totalIn": 1462,
+      "totalOut": 1478
+    }
+  }
+}

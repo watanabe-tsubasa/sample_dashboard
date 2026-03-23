@@ -1,0 +1,162 @@
+{
+  "date": "2026-03-12",
+  "timezone": "+09:00",
+  "lines": {
+    "line1": {
+      "coords": {
+        "sx": 224,
+        "sy": 162,
+        "ex": 124,
+        "ey": 160
+      },
+      "hourly": [
+        {
+          "utcHour": 15,
+          "jstHour": 0,
+          "countIn": 1,
+          "countOut": 2
+        },
+        {
+          "utcHour": 16,
+          "jstHour": 1,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 17,
+          "jstHour": 2,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 18,
+          "jstHour": 3,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 19,
+          "jstHour": 4,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 20,
+          "jstHour": 5,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 21,
+          "jstHour": 6,
+          "countIn": 5,
+          "countOut": 6
+        },
+        {
+          "utcHour": 22,
+          "jstHour": 7,
+          "countIn": 8,
+          "countOut": 10
+        },
+        {
+          "utcHour": 23,
+          "jstHour": 8,
+          "countIn": 10,
+          "countOut": 2
+        },
+        {
+          "utcHour": 0,
+          "jstHour": 9,
+          "countIn": 202,
+          "countOut": 152
+        },
+        {
+          "utcHour": 1,
+          "jstHour": 10,
+          "countIn": 328,
+          "countOut": 259
+        },
+        {
+          "utcHour": 2,
+          "jstHour": 11,
+          "countIn": 388,
+          "countOut": 311
+        },
+        {
+          "utcHour": 3,
+          "jstHour": 12,
+          "countIn": 460,
+          "countOut": 405
+        },
+        {
+          "utcHour": 4,
+          "jstHour": 13,
+          "countIn": 377,
+          "countOut": 388
+        },
+        {
+          "utcHour": 5,
+          "jstHour": 14,
+          "countIn": 364,
+          "countOut": 367
+        },
+        {
+          "utcHour": 6,
+          "jstHour": 15,
+          "countIn": 389,
+          "countOut": 416
+        },
+        {
+          "utcHour": 7,
+          "jstHour": 16,
+          "countIn": 376,
+          "countOut": 404
+        },
+        {
+          "utcHour": 8,
+          "jstHour": 17,
+          "countIn": 436,
+          "countOut": 448
+        },
+        {
+          "utcHour": 9,
+          "jstHour": 18,
+          "countIn": 493,
+          "countOut": 434
+        },
+        {
+          "utcHour": 10,
+          "jstHour": 19,
+          "countIn": 373,
+          "countOut": 399
+        },
+        {
+          "utcHour": 11,
+          "jstHour": 20,
+          "countIn": 257,
+          "countOut": 365
+        },
+        {
+          "utcHour": 12,
+          "jstHour": 21,
+          "countIn": 101,
+          "countOut": 274
+        },
+        {
+          "utcHour": 13,
+          "jstHour": 22,
+          "countIn": 2,
+          "countOut": 11
+        },
+        {
+          "utcHour": 14,
+          "jstHour": 23,
+          "countIn": 0,
+          "countOut": 0
+        }
+      ],
+      "totalIn": 4570,
+      "totalOut": 4653
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2026-03-16",
+  "timezone": "+09:00",
+  "lines": {
+    "line1": {
+      "coords": {
+        "sx": 224,
+        "sy": 162,
+        "ex": 124,
+        "ey": 160
+      },
+      "hourly": [
+        {
+          "utcHour": 15,
+          "jstHour": 0,
+          "countIn": 1,
+          "countOut": 1
+        },
+        {
+          "utcHour": 16,
+          "jstHour": 1,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 17,
+          "jstHour": 2,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 18,
+          "jstHour": 3,
+          "countIn": 0,
+          "countOut": 0
+        },
+        {
+          "utcHour": 19,
+          "jstHour": 4,
+          "countIn": 0,
+          "countOut": 0
+        }
+      ],
+      "totalIn": 1,
+      "totalOut": 1
+    }
+  }
+}

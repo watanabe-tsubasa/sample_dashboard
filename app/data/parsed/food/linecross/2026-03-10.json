@@ -1,0 +1,108 @@
+{
+  "date": "2026-03-10",
+  "timezone": "+09:00",
+  "lines": {
+    "line1": {
+      "coords": {
+        "sx": 224,
+        "sy": 162,
+        "ex": 124,
+        "ey": 160
+      },
+      "hourly": [
+        {
+          "utcHour": 0,
+          "jstHour": 9,
+          "countIn": 348,
+          "countOut": 223
+        },
+        {
+          "utcHour": 1,
+          "jstHour": 10,
+          "countIn": 504,
+          "countOut": 405
+        },
+        {
+          "utcHour": 2,
+          "jstHour": 11,
+          "countIn": 556,
+          "countOut": 507
+        },
+        {
+          "utcHour": 3,
+          "jstHour": 12,
+          "countIn": 566,
+          "countOut": 558
+        },
+        {
+          "utcHour": 4,
+          "jstHour": 13,
+          "countIn": 410,
+          "countOut": 478
+        },
+        {
+          "utcHour": 5,
+          "jstHour": 14,
+          "countIn": 430,
+          "countOut": 466
+        },
+        {
+          "utcHour": 6,
+          "jstHour": 15,
+          "countIn": 516,
+          "countOut": 465
+        },
+        {
+          "utcHour": 7,
+          "jstHour": 16,
+          "countIn": 480,
+          "countOut": 520
+        },
+        {
+          "utcHour": 8,
+          "jstHour": 17,
+          "countIn": 497,
+          "countOut": 517
+        },
+        {
+          "utcHour": 9,
+          "jstHour": 18,
+          "countIn": 553,
+          "countOut": 471
+        },
+        {
+          "utcHour": 10,
+          "jstHour": 19,
+          "countIn": 432,
+          "countOut": 493
+        },
+        {
+          "utcHour": 11,
+          "jstHour": 20,
+          "countIn": 254,
+          "countOut": 371
+        },
+        {
+          "utcHour": 12,
+          "jstHour": 21,
+          "countIn": 118,
+          "countOut": 262
+        },
+        {
+          "utcHour": 13,
+          "jstHour": 22,
+          "countIn": 6,
+          "countOut": 22
+        },
+        {
+          "utcHour": 14,
+          "jstHour": 23,
+          "countIn": 1,
+          "countOut": 2
+        }
+      ],
+      "totalIn": 5671,
+      "totalOut": 5760
+    }
+  }
+}
